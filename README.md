@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**cmaqr/cmaqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Carlos Henrique**, a Mechatronics Engineer and Embedded Systems Developer passionate about **home automation** and **computer vision**. My work merges cutting-edge hardware and software solutions, transforming the way we interact with our environments.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 **Education:** Mechatronics Engineering (2019-2023) at Universidade Tiradentes Maceió.
+- 💡 **Focus Areas:** Embedded systems, IoT devices, and computer vision.
+- 🏠 **Home Automation:** Crafting intelligent systems that integrate AI-driven computer vision to control lights, doors, AC units, and more.
+- 🤖 **Computer Vision & AI:** Skilled in object detection (YOLO, Darknet) and image analysis for automated photo sorting and facial recognition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**"Learning is evolving; each new challenge is an opportunity to become better."**
+
+Feel free to explore my repositories, collaborate on projects, or get in touch!
